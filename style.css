@@ -6,7 +6,7 @@
     --branco: #FFFFFF;
     --botao-ativo: #db0000;
     --botao-inativo: rgb(139, 0, 0);
-    --texto-fundo: rgb(131, 0, 0);
+    --texto-fundo: rgb(255, 255, 255);
 }
 
 body {
